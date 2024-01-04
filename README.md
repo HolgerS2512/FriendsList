@@ -7,14 +7,13 @@ FriendsList is a small app written in JavaScript using the Expo framework. The a
 ## Table of Contents
 
 [FriendsList](#friendslist)
-- [FriendsList](#friendslist)
-  - [Overview](#overview)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Technical Details](#technical-details)
-  - [Contribution](#contribution)
-  - [License](#license)
+- [Overview](#overview)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technical Details](#technical-details)
+- [Contribution](#contribution)
+- [License](#license)
 
 ## Installation
 
